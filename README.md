@@ -37,8 +37,11 @@ Here are some of the things we need to carry out :-
   - Updating the models and applying gradients. 
 
 16) Training process for a GAN, updating the generator and discriminator with each batch of data across multiple epochs.
+    
    Generate and save images.
+   
    Save the model every 15 epochs
+   
    Generate after final epoch
 
 18) Generate and save images 
